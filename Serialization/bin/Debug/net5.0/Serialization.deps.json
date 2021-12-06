@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Serialization/1.0.0": {
+        "dependencies": {
+          "PlayerBase": "1.0.0"
+        },
+        "runtime": {
+          "Serialization.dll": {}
+        }
+      },
+      "PlayerBase/1.0.0": {
+        "runtime": {
+          "PlayerBase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Serialization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlayerBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
