@@ -1,0 +1,12 @@
+C:\Users\LEONARD BRWONTIAL\Documents\Leo's Tasks\College\5th Semester\CBNP\Week 1\PlayerBase\bin\Debug\net5.0\PlayerBase.deps.json
+C:\Users\LEONARD BRWONTIAL\Documents\Leo's Tasks\College\5th Semester\CBNP\Week 1\PlayerBase\bin\Debug\net5.0\PlayerBase.dll
+C:\Users\LEONARD BRWONTIAL\Documents\Leo's Tasks\College\5th Semester\CBNP\Week 1\PlayerBase\bin\Debug\net5.0\ref\PlayerBase.dll
+C:\Users\LEONARD BRWONTIAL\Documents\Leo's Tasks\College\5th Semester\CBNP\Week 1\PlayerBase\bin\Debug\net5.0\PlayerBase.pdb
+C:\Users\LEONARD BRWONTIAL\Documents\Leo's Tasks\College\5th Semester\CBNP\Week 1\PlayerBase\obj\Debug\net5.0\PlayerBase.csproj.AssemblyReference.cache
+C:\Users\LEONARD BRWONTIAL\Documents\Leo's Tasks\College\5th Semester\CBNP\Week 1\PlayerBase\obj\Debug\net5.0\PlayerBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEONARD BRWONTIAL\Documents\Leo's Tasks\College\5th Semester\CBNP\Week 1\PlayerBase\obj\Debug\net5.0\PlayerBase.AssemblyInfoInputs.cache
+C:\Users\LEONARD BRWONTIAL\Documents\Leo's Tasks\College\5th Semester\CBNP\Week 1\PlayerBase\obj\Debug\net5.0\PlayerBase.AssemblyInfo.cs
+C:\Users\LEONARD BRWONTIAL\Documents\Leo's Tasks\College\5th Semester\CBNP\Week 1\PlayerBase\obj\Debug\net5.0\PlayerBase.csproj.CoreCompileInputs.cache
+C:\Users\LEONARD BRWONTIAL\Documents\Leo's Tasks\College\5th Semester\CBNP\Week 1\PlayerBase\obj\Debug\net5.0\PlayerBase.dll
+C:\Users\LEONARD BRWONTIAL\Documents\Leo's Tasks\College\5th Semester\CBNP\Week 1\PlayerBase\obj\Debug\net5.0\ref\PlayerBase.dll
+C:\Users\LEONARD BRWONTIAL\Documents\Leo's Tasks\College\5th Semester\CBNP\Week 1\PlayerBase\obj\Debug\net5.0\PlayerBase.pdb
